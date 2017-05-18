@@ -1,3 +1,3 @@
-Students/autors: Kristaps Vilc?ns e-pasts: s5_vilcan_k@venta.lv
+Students/autors: Kristaps Vilcāns e-pasts: s5_vilcan_k@venta.lv
 
-Studiju darbiem paredz?ts GIT.
+Studiju darbiem paredzēts GIT.
