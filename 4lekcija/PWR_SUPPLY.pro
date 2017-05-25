@@ -1,4 +1,4 @@
-update=5/11/2017 9:11:00 AM
+update=5/24/2017 9:15:31 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -58,4 +56,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=D:/2semestris2kursswin10transfer/GitTestProject/Libraries/SELFMADE
+[general]
+version=1
