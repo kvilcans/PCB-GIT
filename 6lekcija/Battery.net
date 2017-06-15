@@ -1,0 +1,48 @@
+(export (version D)
+  (design
+    (source C:/Users/Kristaps/Desktop/PCBGIT/PCB-GIT/6lekcija/Battery.sch)
+    (date "5/25/2017 2:31:36 PM")
+    (tool "Eeschema 4.0.6")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source Battery.sch)
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref BT1)
+      (value Battery_Cell)
+      (footprint Battery_Holders:SMTU2032)
+      (libsource (lib device) (part Battery_Cell))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 592692E8))
+    (comp (ref BT2)
+      (value Battery_Cell)
+      (footprint Battery_Holders:S8211R)
+      (libsource (lib device) (part Battery_Cell))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5926BEA1)))
+  (libparts
+    (libpart (lib device) (part Battery_Cell)
+      (description "single battery cell")
+      (fields
+        (field (name Reference) BT)
+        (field (name Value) Battery_Cell))
+      (pins
+        (pin (num 1) (name +) (type passive))
+        (pin (num 2) (name -) (type passive)))))
+  (libraries
+    (library (logical device)
+      (uri "D:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib")))
+  (nets
+    (net (code 1) (name +3V3)
+      (node (ref BT1) (pin 1))
+      (node (ref BT2) (pin 1)))
+    (net (code 2) (name GND)
+      (node (ref BT1) (pin 2))
+      (node (ref BT2) (pin 2)))))

@@ -1,4 +1,4 @@
-update=5/11/2017 9:11:00 AM
+update=6/15/2017 2:53:06 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=D:/2semestris2kursswin10transfer/GitTestProject/Libraries/SELFMADE
+LibName30=FMBA14_npn
