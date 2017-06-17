@@ -1,0 +1,21 @@
+Source,C:/Users/Kristaps/Desktop/PCBGIT/PCB-GIT/12lekcija/single_tranzistor_amp.sch
+Kicad Rev,Eeschema 4.0.6
+Generated Date,6/17/2017 2:24:35 PM
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+R1,22k,device,R
+R3,4.7k,device,R
+R4,1.8k,device,R
+R2,6.8k,device,R
+C1,20uF,device,C
+C2,20uF,device,C
+C3,50uF,device,C
+Q1,BC548,transistors,BC548
+P1,PWR_CONN,SELFMADE,PWR_CONN
+P2,SIGNAL_IN,SELFMADE,SIGNAL_IN
+P3,SIGNAL_OUT,SELFMADE,SIGNAL_OUT

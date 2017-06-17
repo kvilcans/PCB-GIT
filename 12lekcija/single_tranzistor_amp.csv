@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C2";"C_Disc_D5.0mm_W2.5mm_P5.00mm";2;"20uF";;;
+2;"C3";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"50uF";;;
+3;"P1";"AK300-2";1;"PWR_CONN";;;
+4;"P2";"AK300-2";1;"SIGNAL_IN";;;
+5;"P3";"AK300-2";1;"SIGNAL_OUT";;;
+6;"Q1";"TO-92_Inline_Narrow_Oval";1;"BC548";;;
+7;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"22k";;;
+8;"R3";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"4.7k";;;
+9;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"6.8k";;;
+10;"R4";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"1.8k";;;

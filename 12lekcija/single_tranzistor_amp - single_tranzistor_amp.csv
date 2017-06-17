@@ -1,0 +1,11 @@
+Designator,Package,Quantity,Designation,Supplier and ref
+"C1,C3",C_Disc_D5.0mm_W2.5mm_P5.00mm,2,50uF,nonexistant
+C2,C_Disc_D5.0mm_W2.5mm_P5.00mm,1,20uF,nonexistant
+P1,AK300-2,1,PWR_CONN,http://eu.mouser.com/Search/ProductDetail.aspx?R=30.602virtualkey56110000virtualkey845-30.602
+P2,AK300-2,1,SIGNAL_IN,http://eu.mouser.com/Search/ProductDetail.aspx?R=30.602virtualkey56110000virtualkey845-30.602
+P3,AK300-2,1,SIGNAL_OUT,http://eu.mouser.com/Search/ProductDetail.aspx?R=30.602virtualkey56110000virtualkey845-30.602
+Q1,TO-92_Inline_Narrow_Oval,1,BC548,http://lv.farnell.com/fairchild-semiconductor/bc548b/transistor-npn-to-92/dp/1467874
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,22k,http://eu.mouser.com/ProductDetail/Vishay-BC-Components/MBA02040C2202FRP00/?qs=sGAEpiMZZMsPqMdJzcrNwj6HBn5SfVJIa%2f2CpWJ7NaM%3d
+R2,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,4.7k,http://eu.mouser.com/ProductDetail/Vishay-BC-Components/MRS16000C4701FRP00/?qs=sGAEpiMZZMsPqMdJzcrNwl6zvbZEplbczRG6WmCtPW4%3d
+R3,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,6.8k,http://eu.mouser.com/ProductDetail/Vishay-BC-Components/MBA02040C6801FC100/?qs=sGAEpiMZZMsPqMdJzcrNwqfUlvWZJ4QVoNIvl%2f6RKyU%3d
+R4,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,1.8k,http://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MBA02040C1801FC100/?qs=sGAEpiMZZMsPqMdJzcrNwqfUlvWZJ4QV%252bBRIsTPokBI%3d
